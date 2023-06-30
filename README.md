@@ -1,5 +1,5 @@
 # Airbnb-Storytelling-Case-Study
-Problem background
+## Problem background 
 Suppose that you are working as a data analyst at Airbnb. For the past few months, Airbnb has seen a major decline in revenue. Now that the restrictions have started lifting and people have started to travel more, Airbnb wants to make sure that it is fully prepared for this change.
 
  
@@ -18,7 +18,7 @@ Note: These points are just to give you an initial understanding of how to proce
 
  
 
-End Objective
+## End Objective 
 To prepare for the next best steps that Airbnb needs to take as a business, you have been asked to analyse a dataset consisting of various Airbnb listings in New York. Based on this analysis, you need to give two presentations to the following groups.
 
 Presentation - I
